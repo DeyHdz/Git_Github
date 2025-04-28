@@ -17,11 +17,6 @@
 |  CCH Vallejo   |  Bachillerato  | 3 años    | Ciudad de Mexico |
 |  Facultad de Ingenieria  | Universidad  |  5 años   |  Ciudad de Mexico   |
 
-**Cursos adicionales:**
-  - Curso de Linux Básico y Avanzado | SIAFI🐧
-  - Curso de Introducción a la Ciberseguridad | Microsoft 🔒
-  - Curso de Desarrollo Web | Tecnolochicas 👩‍💻
-
 # 🌟 Soft Skills
 
 ## 💬 Habilidades de Comunicación
@@ -41,7 +36,7 @@
 ## 🎯 Organización y Gestión del Tiempo
 
 - Capacidad para priorizar tareas y cumplir fechas de entrega 📆  
-- Organización de proyectos mediante el uso de herramientas digitales (Trello, Notion, GitHub Projects) 🛠️  
+- Organización de proyectos mediante el uso de herramientas digitales (Notion, GitHub Projects) 🛠️  
 - Manejo de múltiples actividades sin comprometer la calidad ✅
 ---
 ## 🧠 Pensamiento Crítico y Resolución de Problemas
