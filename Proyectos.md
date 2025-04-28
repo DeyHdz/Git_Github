@@ -36,3 +36,13 @@ Aquí puedes ver el sitio en acción:
 - 🎨 Personalización de productos (trajes a medida).
 
 ---
+## 🎮 Otros Proyectos Escolares
+
+- 🗂️ **Generación de bases de datos** para una imprenta.
+- 🎲 **Implementación de videojuegos**:  
+  - *Gato* desarrollado en **C**.  
+  - *Poker* desarrollado en **Python**.
+- 🖥️ **Desarrollo de una terminal interactiva** en **Bash**:
+  - Incluye autenticación, comandos personalizados, juegos y reproductor musical.
+
+---
