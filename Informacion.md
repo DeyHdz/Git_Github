@@ -67,3 +67,8 @@
 - Resiliencia para superar obstáculos y seguir avanzando 🌱
 
 ---
+## 📝 Frase que me inspira:
+
+> “La fuerza de tus convicciones determina tu éxito, no tu número de seguidores” — Remus Lupin
+
+---
