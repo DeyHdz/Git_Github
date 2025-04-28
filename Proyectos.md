@@ -14,3 +14,13 @@ Su objetivo principal es la **difusión de actividades culturales** de forma mod
 - 🌐 Enfoque inclusivo y atractivo.
 
 ---
+## 🧠 Arcanum AI
+
+**Descripción:**  
+Proyecto de inteligencia artificial orientado a **crear un modelo educativo personalizado** basado en comparativas internacionales. 🏫🌍
+
+- 📊 Considera variables sociales, económicas, demográficas y geográficas.
+- 🧪 Permite iteraciones dinámicas del modelo.
+- 🎯 Objetivo: que todos los mexicanos accedan a una **educación de calidad** según sus necesidades e intereses.
+
+---
