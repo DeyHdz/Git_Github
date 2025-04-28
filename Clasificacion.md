@@ -1,5 +1,6 @@
 # 📚 Clasificación de Libros, Música y Videojuegos
-> ✨ Esta clasificación refleja mis gustos personales y las obras que más me han acompañado e inspirado. ¡Espero que les guste tanto como a mí! ❤️
+> ✨ Esta clasificación refleja algunos de mis gustos y las obras que más me han acompañado e inspirado. ¡Aun asi me encanta explorar nueva musica, nuevos generos, artistas y tambien me gustan los videojuegos, si gustas dejame alguna recomendacion o cuentame si coicidimos en algun gusto! ❤️
+ - *Tu comentario aqui:*
 ---
 
 ## 📖 Libros Favoritos
