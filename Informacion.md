@@ -21,3 +21,26 @@
   - Curso de Linux Básico y Avanzado | SIAFI🐧
   - Curso de Introducción a la Ciberseguridad | Microsoft 🔒
   - Curso de Desarrollo Web | Tecnolochicas 👩‍💻
+
+# 🌟 Soft Skills
+
+## 💬 Habilidades de Comunicación
+
+- Capacidad para expresar ideas de forma clara y efectiva 📢  
+- Escucha activa en equipos de trabajo 👂  
+---
+
+## 🤝 Trabajo en Equipo
+
+- Cooperación y colaboración en proyectos grupales 🤝  
+- Respeto por la diversidad de ideas y opiniones 🌍  
+- Facilidad para adaptarme a diferentes roles dentro del equipo 🔄
+
+---
+
+## 🎯 Organización y Gestión del Tiempo
+
+- Capacidad para priorizar tareas y cumplir fechas de entrega 📆  
+- Organización de proyectos mediante el uso de herramientas digitales (Trello, Notion, GitHub Projects) 🛠️  
+- Manejo de múltiples actividades sin comprometer la calidad ✅
+---
