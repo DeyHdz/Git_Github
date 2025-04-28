@@ -65,6 +65,15 @@
 - Mantener la calma y enfoque ante situaciones estresantes 🌪️  
 - Capacidad de adaptación rápida a cambios de entorno y requerimientos 🔄  
 - Resiliencia para superar obstáculos y seguir avanzando 🌱
+---
+## 🎶 Hobbies Principales
+
+| Hobby 🎉              | Descripción ✨                                                         |
+|------------------------|------------------------------------------------------------------------|
+| 🎵 Escuchar música     | Disfrutar de diferentes géneros musicales para relajarme o motivarme   |
+| 🎬 Ver películas       | Amante del cine, me encanta explorar nuevos géneros y clásicos         |
+| ☕ Visitar cafeterías   | Me gusta descubrir nuevos lugares acogedores y probar diferentes cafés|
+| 📚 Aprender | Me interesa aprender sobre temas de desarrollo y tecnologia |
 
 ---
 ## 📝 Frase que me inspira:
