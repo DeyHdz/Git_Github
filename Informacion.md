@@ -44,3 +44,26 @@
 - Organización de proyectos mediante el uso de herramientas digitales (Trello, Notion, GitHub Projects) 🛠️  
 - Manejo de múltiples actividades sin comprometer la calidad ✅
 ---
+## 🧠 Pensamiento Crítico y Resolución de Problemas
+
+- Análisis de situaciones para encontrar soluciones prácticas 🔍  
+- Toma de decisiones basadas en datos y evidencia 📊  
+- Flexibilidad para proponer alternativas creativas 💡
+
+---
+
+## 🚀 Aprendizaje Continuo
+
+- Apertura al aprendizaje de nuevas tecnologías y metodologías 📚  
+- Participación activa en talleres, cursos y conferencias 🖥️  
+- Búsqueda constante de la mejora personal y profesional 🛤️
+
+---
+
+## 🧘‍♀️ Manejo de la Presión y Adaptabilidad
+
+- Mantener la calma y enfoque ante situaciones estresantes 🌪️  
+- Capacidad de adaptación rápida a cambios de entorno y requerimientos 🔄  
+- Resiliencia para superar obstáculos y seguir avanzando 🌱
+
+---
