@@ -4,7 +4,7 @@
 
 ## Información personal
 - Nombre Completo: Deissy Jovita Hernandez Hernandez
-- Edad: 23 años
+- Edad: 22 años
 - Ciudad: Ciudad de México 🇲🇽
 - Correo: deissyjovit@gmail.com
 
