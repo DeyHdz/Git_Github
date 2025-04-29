@@ -21,3 +21,10 @@
 | Videoclub           | Synthpop         | *Euphories* (2020)                        | ![Euphories](https://m.media-amazon.com/images/I/71EztzIXkiL._UF1000,1000_QL80_.jpg) |
 
 ---
+
+## 🎵 Recomendaciones de canciones
+| Canción | Artista | Quién la recomienda 📝  |
+|--------------|--------------|--------------|
+| LA Calling | Crystal Fighters | Giselle 😄 |
+| |  |  |
+
