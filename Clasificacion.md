@@ -21,4 +21,12 @@
 | Videoclub           | Synthpop         | *Euphories* (2020)                        | ![Euphories](https://m.media-amazon.com/images/I/71EztzIXkiL._UF1000,1000_QL80_.jpg) |
 
 ---
+
+## 🎵 Recomendaciones de canciones
+| Canción | Artista | Quién la recomienda 📝  |
+|--------------|--------------|--------------|
+| LA Calling | Crystal Fighters | Giselle 😄 |
+| |  |  |
+
 ¡Hola! Soy ***Gerardo***. Creo que tienes un buen gusto en libros, entonces te recomiendo leer *1984* de *George Orwell* ya que es un libro que he estado leyendo y me parece muy bueno, aunque algo diferente a tu lista de favoritos.
+
