@@ -26,9 +26,13 @@
 | Canción | Artista | Quién la recomienda 📝  |
 |--------------|--------------|--------------|
 | LA Calling | Crystal Fighters | Giselle 😄 |
-| |  |  |
+| Don't Stop | Fleetwood Mac | Emilianooo |
 
 ¡Hola! Soy ***Gerardo***. Creo que tienes un buen gusto en libros, entonces te recomiendo leer *1984* de *George Orwell* ya que es un libro que he estado leyendo y me parece muy bueno, aunque algo diferente a tu lista de favoritos.
 
 Hola, soy **Eduardo**. No he leido ninguno de esos libros pero suenan interesantes. Por mi parte te recomiendo ampliamente *La joven de las naranjas*, un libro increible!
+
+Hola, soy **Jessi**. También leí *Los ojos del perro siberiano* y me gustó mucho, asi que te recomiendo **El hombre de los pies-murciélago.**
+
+<p>Wowowowo ¿cual es tu review de los libros? he querido leer La tregua, pero aun no estoy totalmente convencido o si debería leer algo más antes. Soy Erick, saludos</p>
 
