@@ -32,3 +32,6 @@
 
 
 Hola, soy **Jessi**. También leí *Los ojos del perro siberiano* y me gustó mucho, asi que te recomiendo **El hombre de los pies-murciélago.**
+
+<p>Wowowowo ¿cual es tu review de los libros? he querido leer La tregua, pero aun no estoy totalmente convencido o si debería leer algo más antes. Soy Erick, saludos</p>
+
