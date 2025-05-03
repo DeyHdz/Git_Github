@@ -26,13 +26,21 @@
 | Canción | Artista | Quién la recomienda 📝  |
 |--------------|--------------|--------------|
 | LA Calling | Crystal Fighters | Giselle 😄 |
-| |  |  |
+| Don't Stop | Fleetwood Mac | Emilianooo |
 
 ¡Hola! Soy ***Gerardo***. Creo que tienes un buen gusto en libros, entonces te recomiendo leer *1984* de *George Orwell* ya que es un libro que he estado leyendo y me parece muy bueno, aunque algo diferente a tu lista de favoritos.
 
+Hola, soy **Eduardo**. No he leido ninguno de esos libros pero suenan interesantes. Por mi parte te recomiendo ampliamente *La joven de las naranjas*, un libro increible!
 
 Hola, soy **Jessi**. También leí *Los ojos del perro siberiano* y me gustó mucho, asi que te recomiendo **El hombre de los pies-murciélago.**
 
 <p>Wowowowo ¿cual es tu review de los libros? he querido leer La tregua, pero aun no estoy totalmente convencido o si debería leer algo más antes. Soy Erick, saludos</p>
 
 Aló, aqui _Crizzz_ y realmente no soy muy gran lector... eeeh... recomendación al azar: "La Biblioteca Secreta" de Genevieve Cogman.
+
+Holiiii, soy **Frida Thais**. Muy buenas clasificaciones!, yo te recomiendo:
+- **El conde de montecristo**, de Alexandre Dumas y Auguste Maquet
+- **Yungblud** gran grupo
+
+Hola, soy **Carlo** La verdad no he leido ninguno de los libros que mencionas, pero te recomiendo leer "Cien años de soledad"igual de Gabriel Garcia. Por cierto suenan interesantes,, lo leere.
+
