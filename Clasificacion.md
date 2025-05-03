@@ -36,4 +36,10 @@ Hola, soy **Jessi**. También leí *Los ojos del perro siberiano* y me gustó mu
 
 <p>Wowowowo ¿cual es tu review de los libros? he querido leer La tregua, pero aun no estoy totalmente convencido o si debería leer algo más antes. Soy Erick, saludos</p>
 
+
+Holiiii, soy **Frida Thais**. Muy buenas clasificaciones!, yo te recomiendo:
+- **El conde de montecristo**, de Alexandre Dumas y Auguste Maquet
+- **Yungblud** gran grupo
+
 Hola, soy **Carlo** La verdad no he leido ninguno de los libros que mencionas, pero te recomiendo leer "Cien años de soledad"igual de Gabriel Garcia. Por cierto suenan interesantes,, lo leere.
+
