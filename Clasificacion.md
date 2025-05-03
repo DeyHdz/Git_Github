@@ -36,6 +36,7 @@ Hola, soy **Jessi**. También leí *Los ojos del perro siberiano* y me gustó mu
 
 <p>Wowowowo ¿cual es tu review de los libros? he querido leer La tregua, pero aun no estoy totalmente convencido o si debería leer algo más antes. Soy Erick, saludos</p>
 
+Aló, aqui _Crizzz_ y realmente no soy muy gran lector... eeeh... recomendación al azar: "La Biblioteca Secreta" de Genevieve Cogman.
 
 Holiiii, soy **Frida Thais**. Muy buenas clasificaciones!, yo te recomiendo:
 - **El conde de montecristo**, de Alexandre Dumas y Auguste Maquet
